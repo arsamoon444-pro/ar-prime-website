@@ -1,0 +1,15 @@
+{
+  "name": "AR PRIME",
+  "short_name": "AR PRIME",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#060309",
+  "background_color": "#060309",
+  "display": "standalone",
+  "start_url": "/"
+}
