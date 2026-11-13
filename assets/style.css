@@ -450,3 +450,20 @@ footer {
 
 /* Utility Classes */
 .text-grad { background: var(--grad-primary); -webkit-background-clip: text; background-clip: text; color: transparent; }
+
+/* Project live links (added 2026-11-13) */
+.project-link {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--violet);
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.2s ease;
+}
+
+.project-link:hover {
+  color: var(--sky);
+}
